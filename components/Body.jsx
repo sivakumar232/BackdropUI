@@ -59,11 +59,16 @@ const Backgrounds = () => {
         </p>
 
         <div className="flex justify-center items-center mt-8 gap-4">
+        <a
+      href="https://github.com/sivakumar232/BackdropUI"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
           <button className={`px-5 py-2 rounded flex items-center gap-2 transition-all duration-300 
             ${currentTheme === "dark" ? "bg-white text-black hover:bg-gray-300" : "bg-black text-white hover:bg-gray-700"}`}>
             Go to GitHub 
             <AiOutlineArrowRight className="text-xl" />
-          </button>
+          </button></a>
           <button className={`px-5 py-2 rounded flex items-center gap-2 transition-all duration-300 
             ${currentTheme === "dark" ? "bg-black text-white hover:bg-neutral-900 " : "bg-neutral-100 text-black hover:bg-neutral-300"}`}onClick={handleReset}>
             Reset Background
