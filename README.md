@@ -12,8 +12,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/your_username/BackdropUI">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/sivakumar232/BackdropUI">
+    <img src="src/assets/favicon.ico" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">BackdropUI</h3>
@@ -21,14 +21,14 @@
   <p align="center">
     A modern UI component library for sleek and responsive applications!
     <br />
-    <a href="https://github.com/your_username/BackdropUI"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/sivakumar232/BackdropUI"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/your_username/BackdropUI">View Demo</a>
+    <a href="https://github.com/sivakumar232/BackdropUI">View Demo</a>
     &middot;
-    <a href="https://github.com/your_username/BackdropUI/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/sivakumar232/BackdropUI/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/your_username/BackdropUI/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/sivakumar232/BackdropUI/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -65,12 +65,18 @@
 
 BackdropUI is a modern UI component library designed to help developers build sleek and responsive applications with ease.
 
-Here's why BackdropUI is the right choice:
-* Optimized for performance and responsiveness
-* Pre-styled, customizable components for rapid development
-* Consistent and modern design principles
+Why Use BackdropUI?
+Optimized for performance and responsiveness
 
-More features and enhancements will be added soon! Feel free to contribute or suggest improvements by opening an issue.
+Pre-styled, customizable components for faster development
+
+Consistent and modern design principles
+
+Themed code snippets with live preview on our website
+
+Easy to integrate and enhances the overall look of projects
+
+More features and improvements are coming soon. Contributions and suggestions are welcome—open an issue to share your ideas.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,8 +84,6 @@ More features and enhancements will be added soon! Feel free to contribute or su
 
 * [![React][React.js]][React-url]
 * [![Tailwind CSS][Tailwind-css]][Tailwind-url]
-* [![Typescript][Typescript]][Typescript-url]
-* [![Vite][Vite]][Vite-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,7 +104,7 @@ Ensure you have Node.js installed:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username/BackdropUI.git
+   git clone https://github.com/sivakumar232/BackdropUI.git
    ```
 2. Install NPM packages
    ```sh
@@ -118,7 +122,6 @@ Ensure you have Node.js installed:
 
 Use BackdropUI components in your projects for fast and beautiful UI design.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,11 +129,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 
 - [x] Core UI Components
-- [ ] Dark Mode Support
+- [x] Dark Mode Support
 - [ ] Accessibility Enhancements
 - [ ] More Theming Options
 
-See the [open issues](https://github.com/your_username/BackdropUI/issues) for a full list of proposed features.
+See the [open issues](https://github.com/sivakumar232/BackdropUI/issues) for a full list of proposed features.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,7 +162,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/BackdropUI](https://github.com/your_username/BackdropUI)
+Project Link: [https://github.com/sivakumar232/BackdropUI](https://github.com/sivakumar232/BackdropUI)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
