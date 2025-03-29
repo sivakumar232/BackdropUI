@@ -24,7 +24,7 @@
     <a href="https://github.com/sivakumar232/BackdropUI"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/sivakumar232/BackdropUI">View Demo</a>
+    <a href="https://sivakumar232.github.io/BackdropUI">View Demo</a>
     &middot;
     <a href="https://github.com/sivakumar232/BackdropUI/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
@@ -61,7 +61,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Screenshot][product-screenshot]](https://example.com)
 
 BackdropUI is a modern UI component library designed to help developers build sleek and responsive applications with ease.
 
@@ -160,9 +159,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
 Project Link: [https://github.com/sivakumar232/BackdropUI](https://github.com/sivakumar232/BackdropUI)
+Project Live at :[https://sivakumar232.github.io/BackdropUI/]( https://sivakumar232.github.io/BackdropUI/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
