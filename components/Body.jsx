@@ -68,34 +68,35 @@ const Backgrounds = () => {
         </div>
       </div>
 
-      <div className="border-none mb-30 border-neutral-300 grid grid-cols-1 md:grid-cols-4 gap-8 pb-4 mb-5 lg:mb-16 mt-12 mx-12 md:mx-55">
-        {backgrounds.map((bg, index) => (
-          <div
-            key={index}
-            className={`border-none p-4 text-center rounded-md h-[300px] w-[270px] ${bg.component} ${bg.theme === "dark" ? "text-white" : "text-black"}`}
-          >
-            <div className="flex justify-between">
-              <button
-                className={`rounded px-3 py-1 text-sm transition-all duration-300 ${bg.theme === "dark" ? "bg-neutral-900 text-white hover:bg-gray-700" : "bg-black text-white hover:bg-gray-700"}`}
-                onClick={() => handlePreview(bg.component, bg.theme)}
-              >
-                Preview
-              </button>
-              <button
-                className={`rounded px-3 py-1 text-sm transition-all duration-300 ${bg.theme === "dark" ? "bg-neutral-900 text-white hover:bg-gray-700" : "bg-black text-white hover:bg-gray-700"}`}
-                onClick={() => handleCopy(bg.component)}
-              >
-                Copy
-              </button>
-            </div>
-            {copiedText === bg.component && (
-              <div className="fixed bottom-5 right-5 bg-white text-black px-6  py-4 rounded shadow-lg transition-all duration-1 animate-fadeIn">
-                Copied to clipboard!
-              </div>
-            )}
-          </div>
-        ))}
+    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 px-8 py-12">
+  {backgrounds.map((bg, index) => (
+    <div
+      key={index}
+      className={`p-4 text-center rounded-md h-[300px] w-full  shadow ${bg.component} ${bg.theme === "dark" ? "text-white" : "text-black"}`}
+    >
+      <div className="flex justify-between mb-4">
+        <button 
+          className={`rounded px-3 py-1 text-sm transition-all duration-300 ${bg.theme === "dark" ? "bg-neutral-900 text-white hover:bg-gray-700" : "bg-black text-white hover:bg-gray-700"}`}
+          onClick={() => handlePreview(bg.component, bg.theme)}
+        >
+          Preview
+        </button>
+        <button
+          className={`rounded px-3 py-1 text-sm transition-all duration-300 ${bg.theme === "dark" ? "bg-neutral-900 text-white hover:bg-gray-700" : "bg-black text-white hover:bg-gray-700"}`}
+          onClick={() => handleCopy(bg.component)}
+        >
+          Copy
+        </button>
       </div>
+      {copiedText === bg.component && (
+        <div className="fixed bottom-5 right-5 bg-white text-black px-6 py-4 rounded shadow-lg animate-fadeIn">
+          Copied to clipboard!
+        </div>
+      )}
+    </div>
+  ))}
+</div>
+
     </div>
   );
 };
