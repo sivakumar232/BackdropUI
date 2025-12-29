@@ -175,18 +175,18 @@ Project Live at :[https://sivakumar232.github.io/BackdropUI/]( https://sivakumar
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/your_username/BackdropUI.svg?style=for-the-badge
-[contributors-url]: https://github.com/your_username/BackdropUI/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/your_username/BackdropUI.svg?style=for-the-badge
-[forks-url]: https://github.com/your_username/BackdropUI/network/members
-[stars-shield]: https://img.shields.io/github/stars/your_username/BackdropUI.svg?style=for-the-badge
-[stars-url]: https://github.com/your_username/BackdropUI/stargazers
-[issues-shield]: https://img.shields.io/github/issues/your_username/BackdropUI.svg?style=for-the-badge
-[issues-url]: https://github.com/your_username/BackdropUI/issues
-[license-shield]: https://img.shields.io/github/license/your_username/BackdropUI.svg?style=for-the-badge
-[license-url]: https://github.com/your_username/BackdropUI/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/sivakumar232/BackdropUI.svg?style=for-the-badge
+[contributors-url]: https://github.com/sivakumar232/BackdropUI/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sivakumar232/BackdropUI.svg?style=for-the-badge
+[forks-url]: https://github.com/sivakumar232/BackdropUI/network/members
+[stars-shield]: https://img.shields.io/github/stars/sivakumar232/BackdropUI.svg?style=for-the-badge
+[stars-url]: https://github.com/sivakumar232/BackdropUI/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sivakumar232/BackdropUI.svg?style=for-the-badge
+[issues-url]: https://github.com/sivakumar232/BackdropUI/issues
+[license-shield]: https://img.shields.io/github/license/sivakumar232/BackdropUI.svg?style=for-the-badge
+[license-url]: https://github.com/sivakumar232/BackdropUI/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/your_username
+[linkedin-url]: https://linkedin.com/in/sivakumar232
 [product-screenshot]: images/screenshot.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
